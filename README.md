@@ -42,8 +42,8 @@ After installing R-3.5.1-win.exe, the user needs to execute IOAT.exe in the dist
 
 2.3 Download
 
-IOAT can be freely downloaded from https://pan.baidu.com/s/1PnZlfxYI11lQJ6yecABGtg,
-password:xkd0. Compress the zip package (or 7z) into a specified file folder.
+IOAT can be freely downloaded from https://pan.baidu.com/s/1qD6mUQBquSQPyfJtudqR5A ,
+password:xkwm. Compress the zip package (or 7z) into a specified file folder.
 
 2.4 Data Format
 
